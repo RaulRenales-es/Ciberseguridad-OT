@@ -163,7 +163,7 @@ El contenido de este repositorio se distribuye bajo una licencia abierta que per
 
 Consultar el archivo:
 
-LICENSE
+[LICENSE](https://github.com/RaulRenales-es/Ciberseguridad-OT/blob/main/LICENSE)
 
 ---
 
